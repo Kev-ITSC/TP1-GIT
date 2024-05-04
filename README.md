@@ -8,3 +8,5 @@ Desarrolladores: **Segovia Kevin y Acarapi Kevin**
 
 Contacto: kevin.segovia@itscordoba.edu.ar
           kevin.acarapi@itscordoba.edu.ar
+
+Texto agregado por estudiante 2
